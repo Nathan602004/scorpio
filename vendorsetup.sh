@@ -1,2 +1,2 @@
-add_lunch_combo aosp_scorpio-userdebug
-add_lunch_combo aosp_scorpio-eng
+add_lunch_combo aicp_scorpio-userdebug
+add_lunch_combo aicp_scorpio-eng
